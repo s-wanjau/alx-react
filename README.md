@@ -1,1 +1,1 @@
-Time to bundle up those modules using webpack
+This repo houses all react projects
